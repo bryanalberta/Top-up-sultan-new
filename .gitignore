@@ -5,3 +5,9 @@ node_modules/
 frontend/.next/
 backend/node_modules/
 frontend/node_modules/
+*.db
+*.log
+*.txt
+dist/
+build/
+.next/
